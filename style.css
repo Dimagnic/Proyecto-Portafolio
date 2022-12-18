@@ -368,14 +368,11 @@ body{
 
 .section3{
     
-
-    width: 54rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     padding: 2rem 0;
-    margin: 0rem 600px;
     display: flex;
     flex-wrap: nowrap;  
 
